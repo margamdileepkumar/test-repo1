@@ -1,4 +1,4 @@
-rellt java
+hello java
 
 write a basic code for java
 
